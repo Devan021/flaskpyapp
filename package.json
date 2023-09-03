@@ -1,0 +1,11 @@
+{
+  "name": "flaskpyapp",
+  "version": "1.0.0",
+  "description": "Flask Application for CRUD operations on MongoDB",
+  "main": "app.py",
+  "scripts": {
+    "test": "python app.py"
+  },
+  "author": "Devan",
+  "license": "MIT"
+}
