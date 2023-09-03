@@ -2,7 +2,7 @@
 
 <img src="icon.png" align="right" />
 
-[![.github/workflows/ci.yml](https://github.com/github/gh-actions-importer/actions/workflows/ci.yml/badge.svg)](https://github.com/github/gh-actions-importer/actions/workflows/ci.yml)
+[![.github/workflows/ci.yml](https://github.com/github/gh-actions-importer/actions/workflows/ci.yml/badge.svg)](https://github.com/github/gh-actions-importer/actions/workflows/flaskpyapp)
 
 
 Flask application that offers CRUD (Create, Read, Update, Delete) operations to manage user records in a MongoDB database through a REST API.
