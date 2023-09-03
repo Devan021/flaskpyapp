@@ -40,25 +40,28 @@ cd your-repo
 ### 3. Create a Virtual Environment (Optional)
   Although optional, it's recommended to use a virtual environment to isolate your project's dependencies:
 
-bash
+```bash
 Copy code
 python -m venv venv
 source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
+```
 
 ### 4. Install Dependencies
 Install the necessary Python dependencies for this project:
 
-bash
+```bash
 Copy code
 pip install -r requirements.txt
+```
 
 ### 5. Configure MongoDB
+
 Ensure your MongoDB server is up and running.
 Open app.py and update the MongoDB URI and database name as follows:
 python
 Copy code
-app.config['MONGO_URI'] = 'mongodb://localhost:27017/your_database_name'
-
+```app.config['MONGO_URI'] = 'mongodb://localhost:27017/your_database_name'
+````
 ### Running the Application
 To start the Flask application, use the following command:
 
