@@ -88,15 +88,8 @@ DELETE /users/<id>: Delete a user by ID.
 Testing with Postman
 You can use Postman, a popular API testing tool, to test the CRUD operations on user records. Import the provided Postman collection for a more straightforward testing experience.
 
-### Postman Collection
 
-### Screenshots
-Include screenshots or videos here showing the testing process and results.
-
-### Contributing
-We welcome contributions! If you find issues or have improvements to suggest, please feel free to open issues or submit pull requests.
-
-License
+## License
 ```
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
