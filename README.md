@@ -32,10 +32,10 @@ Before getting started, make sure you have the following prerequisites installed
 
 Clone this repository to your local machine:
 
-bash
+```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
-
+````
 
 ### 3. Create a Virtual Environment (Optional)
   Although optional, it's recommended to use a virtual environment to isolate your project's dependencies:
