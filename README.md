@@ -59,15 +59,19 @@ pip install -r requirements.txt
 Ensure your MongoDB server is up and running.
 Open app.py and update the MongoDB URI and database name as follows:
 python
+
+```bash
 Copy code
-```app.config['MONGO_URI'] = 'mongodb://localhost:27017/your_database_name'
+app.config['MONGO_URI'] = 'mongodb://localhost:27017/your_database_name'
 ````
+
 ### Running the Application
 To start the Flask application, use the following command:
 
-bash
+```bash
 Copy code
 python app.py
+```
 The application will start and be accessible at http://localhost:5000.
 
 ### API Endpoints
@@ -89,4 +93,6 @@ Include screenshots or videos here showing the testing process and results.
 We welcome contributions! If you find issues or have improvements to suggest, please feel free to open issues or submit pull requests.
 
 License
+```
 This project is licensed under the MIT License. See the LICENSE file for details.
+```
