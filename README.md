@@ -1,6 +1,8 @@
 # Flask CRUD Application with MongoDB
 
-![Flask Logo](https://www.creativefabrica.com/wp-content/uploads/2021/09/27/AI-logo-design-vector-Graphics-17915917-1-580x369.jpg)
+<img src="icon.png" align="right" />
+
+
 
 This is a straightforward Flask application that offers CRUD (Create, Read, Update, Delete) operations to manage user records in a MongoDB database through a REST API.
 
